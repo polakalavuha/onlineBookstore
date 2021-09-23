@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: 'Hina Mincho', serif;
+  
+    overflow-x: hidden;
+ 
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.logo{
+ 
+  font-size: 200%;
+  margin-left: 200px;
+}
+.hovereffect:hover{
+  color: rgb(182, 173, 190);
+}
+.space{
+  margin-left: 36%;
+}
+.text-decorat{
+  text-decoration: none;
+}
